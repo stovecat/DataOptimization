@@ -1,2 +1,2 @@
 # DataOptimization
-Data Optimization for Learning to Rankusing Influence Functions
+Data Optimization for Learning to Rank using Influence Functions
