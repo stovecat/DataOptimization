@@ -80,7 +80,7 @@ tornado==6.0.4
 tqdm==4.47.0
 traitlets==4.3.3
 update==0.0.1
-urllib3==1.25.9
+urllib3==1.26.5
 wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
 webencodings==0.5.1
 Werkzeug==1.0.1
